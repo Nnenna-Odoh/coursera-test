@@ -1,1 +1,2 @@
 # coursera-test
+This project is a capstone for the Web Development course I undertook at John Hopkhins UniversitY, Coursera. It demonstrates my ability to create web pages that align themselves automatically with the media (device) type. The content of the web page would detail on the latest service update from a fictional company. The design style employed would be minimal and professional. I'm open to corrections if there is anything you think i should have done differently.
