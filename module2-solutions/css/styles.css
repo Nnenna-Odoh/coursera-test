@@ -22,7 +22,7 @@ h1 {
 }
 
 .section {
-    background-color: green;
+    background-color: red;
     border: 1px solid black;
     margin: 10px;
     position: relative;
@@ -33,7 +33,7 @@ h1 {
     position: absolute;
     top: 0;
     right: 0;
-    background-color: maroon;
+    background-color: blue;
     border: 1px solid black;
     padding: 5px 20px;
     font-size: 1.25em; /* 25% larger than default text */
